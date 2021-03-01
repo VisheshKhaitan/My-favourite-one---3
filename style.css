@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: cyan;
+}
+ul {
+  text-align: left;
+}
+.link{
+    cursor: pointer;
+}
